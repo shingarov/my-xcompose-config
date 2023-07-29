@@ -1,0 +1,56 @@
+\leqslant 	⩽ 	less than or slanted equals to
+\geqslant 	⩾ 	greater than or slanted equals
+\eqslantless 	⪕ 	slanted equal to or less than
+\eqslantgtr 	⪖ 	slanted equal to or greater than
+\lesssim 	≲ 	less or quivalent
+\gtrsim 	≳ 	greater or quivalent
+\lessapprox 	⪅ 	less than or approximate
+\gtrapprox 	⪆ 	greater or approximate
+\approxeq 	≅ 	approximately equal
+\lessdot 	⋖ 	less with dot
+\gtrdot 	⋗ 	greater with dot
+\lll 	⋘ 	very much less
+\ggg 	⋙ 	very much greater than
+\lessgtr 	≶ 	less or greater
+\gtrless 	≷ 	greater or less than
+\lesseqgtr 	⋚ 	less than equals to or greater than
+\gtreqless 	⋛ 	Greater than equal to or less than
+\lesseqqgtr 	⪋ 	less than above equals to above greater than
+\gtreqqless 	⪌ 	greater than above equals to above less than
+\doteqdot 	≑ 	geometrically equal
+\eqcirc 	≖ 	equals with circle in middle
+\circeq 	⊜ 	circled equals
+\fallingdotseq 	≒ 	Approximately equal to or the image of
+\risingdotseq 	≓ 	Image of or approximately equal to
+\triangleq 	≜ 	delta equals
+\backsim 	∽ 	reverse similar symbol
+\thicksim 	∼ 	same as \sim (similar) symbol
+\backsimeq 	⋍ 	reverse similar or equals
+\thickapprox 	≈ 	thick approximately equal
+\preccurlyeq 	≼ 	precedes or equals
+\succcurlyeq 	≽ 	succeeds or equals
+\curlyeqprec 	⋞ 	equal or precedes
+\curlyeqsucc 	⋟ 	equal or succeeds
+\precsim 	≾ 	precedes or equivalent
+\succsim 	≿ 	succeeds or equivalent
+\precapprox 	⪷ 	precedes above almost equals to
+\succapprox 	⪸ 	succeeds above almost equals to
+\subseteqq 	⫅ 	subset of above equals
+\supseteqq 	⫆ 	superset of above equals
+\Subset 	⋐ 	double subset
+\Supset 	⋑ 	double superset
+\vartriangleleft 	⊲ 	normal subgroup of
+\vartriangleright 	⊳ 	contains as normal subgroup of
+\trianglelefteq 	⊴ 	normal subgroup of or equal
+\trianglerighteq 	⊵ 	contains as normal subgroup or equal
+\VDash 	⊫ 	double vertical bar double right turnstile
+\Vdash 	⊩ 	Forces symbol
+\Vvdash 	⊪ 	Triple vertical bar, right turnstile
+\Bumpeq 	≎ 	geometrically equivalent
+\between 	≬ 	between
+\pitchfork 	⋔ 	pitchfork
+\backepsilon 	϶ 	reverse Greek epsilon symbol
+\blacktriangleleft 	◂ 	black small left-pointing triangle
+\blacktriangleright 	▸ 	black small right-pointing triangle
+\therefore 	∴ 	therefore
+\because 	∵ 	because 

@@ -1,0 +1,47 @@
+# Logical connectives and other logic symbols
+#
+# These can be entered via LaTeX commands, which is the canonical way.
+# However, they happen so frequently (e.g. you can see ℤ or #∘ in almost
+# every method in MachineArithmetic) that we have dedicated shortcuts.
+
+# Logical connectives
+
+<Multi_key> <space> <minus>    :  "¬"   notsign  # NOT SIGN
+<Multi_key> <space> <Up>       :  "∧"   U2227 # and
+<Multi_key> <space> <Down>     :  "∨"   U2228 # or
+<Multi_key> <space> <t>        :  "⊤"   U22A4 # top
+<Multi_key> <space> <b>        :  "⊥"   U22A5 # bottom
+<Multi_key> <bar> <minus>      :  "⊢"   U22A2 # proves
+<Multi_key> <bar> <equal>      :  "⊨"   U22A8 # models
+<Multi_key> <plus> <plus>      :  "†"   U2020 # affirmation
+<Multi_key> <space> <Right>    :  "∴"	therefore
+<Multi_key> <space> <Left>     :  "∵"	because
+
+# Set theory
+<Multi_key> <space> <a>         :  "∀"   U2200
+<Multi_key> <space> <e>         :  "∃"   U2203
+<Multi_key> <space> <slash>     :  "∈"    U2208 # ELEMENT OF
+<Multi_key> <space> <asterisk>  :  "∩"   U2229  # INTERSECTION
+<Multi_key> <space> <plus>      :  "∪"   U222A  # UNION
+<Multi_key> <space> <parenleft> :  "⊂"   U2282  # SUBSET OF
+<Multi_key> <space> <parenleft> :  "⊃"   U2283  # SUPERSET OF
+<Multi_key> <braceleft> <braceright> : "∅"   U2205 # EMPTY SET
+<Multi_key> <space> <0>         : "⫰"   U2AF0 # disjoint sets
+
+# Well-known Sets
+<Multi_key> <space> <b>   :  "𝔹"   U1D539
+<Multi_key> <space> <c>   :  "ℂ"   U2102
+<Multi_key> <space> <h>   :  "ℍ"   U210D
+<Multi_key> <space> <n>   :  "ℕ"   U2115
+<Multi_key> <space> <p>   :  "ℙ"   U2119
+<Multi_key> <space> <q>   :  "ℚ"   U211A
+<Multi_key> <space> <r>   :  "ℝ"   U211D
+<Multi_key> <space> <z>   :  "ℤ"   U2124
+<Multi_key> <space> <P>   :  "℘"   U2118
+
+<Multi_key> <o> <o>             :  "∘"   U2218 # function composition
+<Multi_key> <o> <asterisk>      :  "⊛"   U229B # <$>
+<Multi_key> <space> <period>   :  "∎"   U220E  # halmos
+# <Multi_key> <space> <comma>    :  "☐"   U2610  # ballot box
+# <Multi_key> <bracketleft> <bracketright> :  "□"  U25A1 # white square, hole, always
+

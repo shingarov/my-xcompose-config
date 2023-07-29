@@ -1,0 +1,27 @@
+# Math — Miscellaneous
+
+<Multi_key> <less> <equal>                     : "≤"  U2264 #  LESS-THAN OR EQUAL TO
+<Multi_key> <less> <exclam>                    : "≺"  U227A #  PRECEDES
+<Multi_key> <less> <at>                        : "≼"  U227C #  PRECEEDS OR EQUAL
+<Multi_key> <less> <bracketleft> <bracketleft> : "⊏"  U228F
+<Multi_key> <less> <bracketleft> <equal>       : "⊑"  U2291
+<Multi_key> <less> <period> <period>           : "⋖"  U22D6
+<Multi_key> <less> <period> <equal>            : "⩿"  U2A7F
+
+<Multi_key> <greater> <equal>                       : "≥"  U2265 #  GREATER-THAN OR EQUAL TO
+<Multi_key> <greater> <exclam>                      : "≻"  U227B #  SUCCEEDS
+<Multi_key> <greater> <at>                          : "≽"  U227D #  SUCCEEDS OR EQUAL
+<Multi_key> <greater> <bracketright> <bracketright> : "⊐"  U2290
+<Multi_key> <greater> <bracketright> <equal>        : "⊒"  U2292
+<Multi_key> <greater> <period> <period>             : "⋗"  U22D7
+<Multi_key> <greater> <period> <equal>              : "⪀"  U2A80
+
+<Multi_key> <exclam> <Down>         : "⋎"   U22CE
+<Multi_key> <exclam> <Up>           : "⋏"   U22CF
+<Multi_key> <bracketleft> <Up>      : "⊓"   U2293
+<Multi_key> <bracketleft> <Down>    : "⊔"   U2294
+
+<Multi_key> <x> <x>                 : "×"   multiply
+<Multi_key> <slash> <slash>         : "÷"   division
+<Multi_key> <slash> <asterisk>      : "⋆"   U22C6
+

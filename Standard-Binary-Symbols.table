@@ -1,0 +1,97 @@
+Latex 	Symbol 	Description
+\in 	∈ 	element of, sideways cup with horizontal bar, opening right
+\ni 	∋ 	contains as member, reverse of \in
+\leq 	≤ 	less or equal, represented by < over = signs
+\geq 	≥ 	greater or equal, represented by > over = signs
+\ll 	≪ 	much less, represented by 2 < in a row
+\gg 	≫ 	much greater, represented by two > in a row
+\prec 	≺ 	precedes, < with both lines curving outward
+\succ 	≻ 	succeeds, reverse of \prec
+\preceq 	≼ 	precedes or equals, \prec with bottom line repeated below symbol
+\succeq 	≽ 	succeeds or equals, reverse of \preceq
+\sim 	∼ 	similar, looks like ~
+\cong 	≅ 	congruent, a \sim over =
+\simeq 	≃ 	asymptotically equal, \sym over single horizontal bar
+\approx 	≈ 	approximately equal, vertical stack of two \sym symbols
+\equiv 	≡ 	equivalent, represented by a stack of three horizontal bars
+\doteq 	≐ 	= with a dot above it
+\subset 	⊂ 	subset of, horizontal cup with opening right
+\supset 	⊃ 	superset of, horizontal cup with opening left
+\subseteq 	⊆ 	subset of or equals, \subset over single horizontal bar
+\supseteq 	⊇ 	superset of or equals, reverse of \subseteq symbol
+\sqsubseteq 	⊑ 	squared subset of or equals
+\sqsupseteq 	⊒ 	squared superset of or equals
+\smile 	⌣ 	smile without any surrounding circle
+\frown 	⌢ 	frown, without any surrounding circle
+\perp 	⊥ 	perpendicular symbol, vertical bar above and touching horizontal bar
+\models 	⊧ 	Models, represented by short vertical bar touching short = sign
+\mid 	∣ 	middle, represented by vertical |
+\parallel 	∥ 	parallel, represented by two vertical bars in a row
+\vdash 	⊢ 	short vertical bar touching a single short horizontal bar
+\Vdash 	⊩ 	Forces, short double vertical bar touching a single short horizontal bar
+\vDash 	⊧ 	Same symbol as \models
+\dashv 	⊣ 	reverse \vdash
+\propto 	∝ 	proportional
+\asymp 	≍ 	asymptotic  smile on top of and touching frown
+\bowtie 	⋈ 	normal subgroup of, bow tie shape or right -pointing triangle on left touching left-pointing triangle on right
+\sqsubset 	⊏ 	square subset of, squared \subset
+\sqsupset 	⊐ 	square superset of, squared version of \supset 
+\Join 	⋈ 	same symbol as \bowtie
+\pm 	± 	plus or minus
+\mp 	∓ 	minus or plus
+\times 	× 	times multiplication sign
+\cdot 	· 	dot multiplication symbol
+\circ 	∘ 	ring operator
+\bigcirc 	◯ 	large circle
+\div 	÷ 	divide, represented by dots above and below horizontal bar
+\diamond 	⋄ 	diamond operator
+\ast 	∗ 	asterisk operator
+\star 	☆ 	white star
+\cap 	∩ 	cap, intersection
+\cup 	∪ 	cup, union
+\sqcap 	⊓ 	square cap, intersection
+\sqcup 	⊔ 	square cup, union
+\wedge 	∧ 	wedge, logical AND
+\vee 	∨ 	V operator, logical OR
+\triangleleft 	◃ 	left pointing triangle
+\triangleright 	▹ 	Right pointing triangle
+\bigtriangleup 	△ 	wide up triangle
+\bigtriangledown 	▽ 	wide down triangle
+\oplus 	⊕ 	circled plus
+\ominus 	⊖ 	circled minus
+\otimes 	⊗ 	circled times sign
+\oslash 	⊘ 	circled slash
+\odot 	⊙ 	circled dot operator
+\bullet 	• 	bullet
+\dagger 	† 	daggar
+\ddagger 	‡ 	double daggar
+\setminus 	\ ∖ 	Set Minus
+\uplus 	⊎ 	multiset union
+\wr 	≀ 	wreath product
+\amalg 	⨿ 	Amalgamation or Co-product
+\lhd 	⊲ 	Normal subgroup of
+\rhd 	⊳ 	Contains as normal subgroup
+\unlhd 	⊴ 	Normal subgroup of or equals to
+\unrhd 	⊵ 	Contains as normal subgoup or equal to
+\dotplus 	∔ 	dot plus
+\centerdot 	⋅ 	centered dot
+\ltimes 	⋉ 	Left normal factor semi-direct product
+\rtimes 	⋊ 	Right normal factor semi-direct product
+\leftthreetimes 	⋋ 	Left semi-direct product
+\rightthreetimes 	⋌ 	Right semi-direct product
+\circleddash 	⊖ 	circled minus
+\smallsetminus 	∖ 	Same as \setminus
+\barwedge 	⊼ 	NAND
+\curlywedge 	⋏ 	curly logical AND
+\curlyvee 	⋎ 	curly logical OR
+\veebar 	⊻ 	XOR
+\intercal 	⊺ 	intercalate
+\Cup 	⋓ 	double union
+\Cap 	⋒ 	double intersection
+\circledast 	⊛ 	circled asterisk operator
+\circledcirc 	⊚ 	circled ring operator
+\boxminus 	⊟ 	squared minus
+\boxtimes 	⊠ 	squared times
+\boxdot 	⊡ 	squared dot operator
+\boxplus 	⊞ 	squared plus
+\divideontimes 	⋇ 	division times

@@ -1,0 +1,12 @@
+# Equality
+<Multi_key> <equal> <minus>      :  "≡"   U2261
+<Multi_key> <equal> <equal>      :  "≣"   U2263
+<Multi_key> <asciitilde> <minus> :  "≃"   U2243
+<Multi_key> <asciitilde> <equal> :  "≅"   U2245
+
+# Non-equality
+<Multi_key> <slash> <equal> <period>     : "≠"  U2260
+<Multi_key> <slash> <equal> <equal>      : "≢"  U2262
+<Multi_key> <slash> <asciitilde> <minus> : "≄"  U2244
+<Multi_key> <slash> <asciitilde> <equal> : "≇"  U2247
+

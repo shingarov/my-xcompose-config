@@ -1,0 +1,46 @@
+# Arrows
+#
+# These can be entered via LaTeX commands, which is the canonical way.
+# However, they happen so frequently that we have dedicated shortcuts.
+
+# Single-arrows are on the ⊥-keys:
+
+<Multi_key> <Left>             : "←"   U2190
+<Multi_key> <Up>               : "↑"   U2191
+<Multi_key> <Right>            : "→"   U2192
+<Multi_key> <Down>             : "↓"   U2193
+
+<Multi_key> <slash> <Left>     : "↚"   U219A
+<Multi_key> <slash> <Right>    : "↛"   U219B
+
+<Multi_key> <bar> <Left>       : "↤"   U21A4
+<Multi_key> <bar> <Up>         : "↥"   U21A5
+<Multi_key> <bar> <Right>      : "↦"   U21A6
+<Multi_key> <bar> <Down>       : "↧"   U21A7
+
+<Multi_key> <asciitilde> <Left>  : "⇜" U21DC
+<Multi_key> <asciitilde> <Right> : "⇝" U21DD
+
+<Multi_key> <equal> <Up>        : "⇞" U21DE
+<Multi_key> <equal> <Down>      : "⇟" U21DF
+<Multi_key> <equal> <Left>      : "⇺" U21FA
+<Multi_key> <equal> <Right>     : "⇻" U21FB
+
+<Multi_key> <bracketright> <Left> : "↩"  U21A9
+<Multi_key> <bracketleft> <Right> : "↪"  U21AA
+
+<Multi_key> <3> <Right>         :  "⇶"   U21F6
+<Multi_key> <o> <Right>         : "⇴"  U21F4
+
+# Double-arrows are on the keypad:
+
+<Multi_key> <KP_4>             :  "⇐"  U21D0
+<Multi_key> <KP_8>             :  "⇑"  U21D1
+<Multi_key> <KP_6>             :  "⇒"  U21D2
+<Multi_key> <KP_2>             :  "⇓"  U21D3
+<Multi_key> <KP_5>             :  "⇔"  U21D4
+<Multi_key> <KP_0>             :  "⇕"  U21D5
+
+<Multi_key> <slash> <KP_4>     :  "⇍"  U21CD
+<Multi_key> <slash> <KP_5>     :  "⇎"  U21CE
+<Multi_key> <slash> <KP_6>     :  "⇏"  U21CF

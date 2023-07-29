@@ -1,0 +1,237 @@
+# Latin Supplement
+
+# ligatures
+<Multi_key> <a> <e>			: "æ"	ae # LATIN SMALL LETTER AE
+<Multi_key> <A> <E>			: "Æ"	AE # LATIN CAPITAL LETTER AE
+<Multi_key> <o> <e>			: "œ"	oe # LATIN SMALL LIGATURE OE
+<Multi_key> <O> <E>			: "Œ"	OE # LATIN CAPITAL LIGATURE OE
+<Multi_key> <s> <s>			: "ß"	ssharp # LATIN SMALL LETTER SHARP S
+<Multi_key> <S> <S>			: "ẞ"	U1e9e # LATIN CAPITAL LETTER SHARP S
+<Multi_key> <f> <f>			: "ﬀ"	Ufb00 # LATIN SMALL LIGATURE FF
+<Multi_key> <f> <i>			: "ﬁ"	Ufb01 # LATIN SMALL LIGATURE FI
+<Multi_key> <f> <l>			: "ﬂ"	Ufb02 # LATIN SMALL LIGATURE FL
+<Multi_key> <F> <i>			: "ﬃ"	Ufb03 # LATIN SMALL LIGATURE FFI
+<Multi_key> <F> <l>			: "ﬄ"	Ufb04 # LATIN SMALL LIGATURE FFL
+<Multi_key> <i> <j>			: "ĳ"	U0133 # LATIN SMALL LIGATURE IJ
+<Multi_key> <I> <j>			: "Ĳ"	U0132 # LATIN CAPITAL LIGATURE IJ
+<Multi_key> <I> <J>			: "Ĳ"	U0132 # LATIN CAPITAL LIGATURE IJ
+
+# Acute
+<Multi_key> <apostrophe> <A>		: "Á"	Aacute # LATIN CAPITAL LETTER A WITH ACUTE
+<Multi_key> <apostrophe> <a>		: "á"	aacute # LATIN SMALL LETTER A WITH ACUTE
+<Multi_key> <apostrophe> <C>		: "Ć"	U0106 # LATIN CAPITAL LETTER C WITH ACUTE
+<Multi_key> <apostrophe> <c>		: "ć"	U0107 # LATIN SMALL LETTER C WITH ACUTE
+<Multi_key> <apostrophe> <E>		: "É"	Eacute # LATIN CAPITAL LETTER E WITH ACUTE
+<Multi_key> <apostrophe> <e>		: "é"	eacute # LATIN SMALL LETTER E WITH ACUTE
+<Multi_key> <apostrophe> <G>		: "Ǵ"	U01F4 # LATIN CAPITAL LETTER G WITH ACUTE
+<Multi_key> <apostrophe> <g>		: "ǵ"	U01F5 # LATIN SMALL LETTER G WITH ACUTE
+<Multi_key> <apostrophe> <I>		: "Í"	Iacute # LATIN CAPITAL LETTER I WITH ACUTE
+<Multi_key> <apostrophe> <i>		: "í"	iacute # LATIN SMALL LETTER I WITH ACUTE
+<Multi_key> <apostrophe> <J>		: "J́"	# LATIN CAPITAL LETTER J U004A with COMBINING ACUTE ACCENT U0301
+<Multi_key> <apostrophe> <j>		: "j́"	# LATIN SMALL LETTER J U006A with COMBINING ACUTE ACCENT U0301
+<Multi_key> <apostrophe> <L>		: "Ĺ"	U0139 # LATIN CAPITAL LETTER L WITH ACUTE
+<Multi_key> <apostrophe> <l>		: "ĺ"	U013A # LATIN SMALL LETTER L WITH ACUTE
+<Multi_key> <apostrophe> <N>		: "Ń"	U0143 # LATIN CAPITAL LETTER N WITH ACUTE
+<Multi_key> <apostrophe> <n>		: "ń"	U0144 # LATIN SMALL LETTER N WITH ACUTE
+<Multi_key> <apostrophe> <O>		: "Ó"	Oacute # LATIN CAPITAL LETTER O WITH ACUTE
+<Multi_key> <apostrophe> <o>		: "ó"	oacute # LATIN SMALL LETTER O WITH ACUTE
+<Multi_key> <apostrophe> <R>		: "Ŕ"	U0154 # LATIN CAPITAL LETTER R WITH ACUTE
+<Multi_key> <apostrophe> <r>		: "ŕ"	U0155 # LATIN SMALL LETTER R WITH ACUTE
+<Multi_key> <apostrophe> <S>		: "Ś"	U015A # LATIN CAPITAL LETTER S WITH ACUTE
+<Multi_key> <apostrophe> <s>		: "ś"	U015B # LATIN SMALL LETTER S WITH ACUTE
+<Multi_key> <apostrophe> <U>		: "Ú"	Uacute # LATIN CAPITAL LETTER U WITH ACUTE
+<Multi_key> <apostrophe> <u>		: "ú"	uacute # LATIN SMALL LETTER U WITH ACUTE
+<Multi_key> <apostrophe> <Y>		: "Ý"	Yacute # LATIN CAPITAL LETTER Y WITH ACUTE
+<Multi_key> <apostrophe> <y>		: "ý"	yacute # LATIN SMALL LETTER Y WITH ACUTE
+<Multi_key> <apostrophe> <Z>		: "Ź"	U0179 # LATIN CAPITAL LETTER Z WITH ACUTE
+<Multi_key> <apostrophe> <z>		: "ź"	U017A # LATIN SMALL LETTER Z WITH ACUTE
+
+# Double acute
+<Multi_key> <equal> <O>			: "Ő"	U0150 # LATIN CAPITAL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <equal> <o>			: "ő"	U0151 # LATIN SMALL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <equal> <U>			: "Ű"	U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <equal> <u>			: "ű"	U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
+
+# Grave
+<Multi_key> <grave> <A>			: "À"	Agrave # LATIN CAPITAL LETTER A WITH GRAVE
+<Multi_key> <grave> <a>			: "à"	agrave # LATIN SMALL LETTER A WITH GRAVE
+<Multi_key> <grave> <E>			: "È"	Egrave # LATIN CAPITAL LETTER E WITH GRAVE
+<Multi_key> <grave> <e>			: "è"	egrave # LATIN SMALL LETTER E WITH GRAVE
+<Multi_key> <grave> <I>			: "Ì"	Igrave # LATIN CAPITAL LETTER I WITH GRAVE
+<Multi_key> <grave> <i>			: "ì"	igrave # LATIN SMALL LETTER I WITH GRAVE
+<Multi_key> <grave> <N>			: "Ǹ"	U01F8 # LATIN CAPITAL LETTER N WITH GRAVE
+<Multi_key> <grave> <n>			: "ǹ"	U01F9 # LATIN SMALL LETTER N WITH GRAVE
+<Multi_key> <grave> <O>			: "Ò"	Ograve # LATIN CAPITAL LETTER O WITH GRAVE
+<Multi_key> <grave> <o>			: "ò"	ograve # LATIN SMALL LETTER O WITH GRAVE
+<Multi_key> <grave> <U>			: "Ù"	Ugrave # LATIN CAPITAL LETTER U WITH GRAVE
+<Multi_key> <grave> <u>			: "ù"	ugrave # LATIN SMALL LETTER U WITH GRAVE
+
+# Circumflex
+<Multi_key> <asciicircum> <A>		: "Â"	Acircumflex # LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <a>		: "â"	acircumflex # LATIN SMALL LETTER A WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <C>		: "Ĉ"	U0108 # LATIN CAPITAL LETTER C WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <c>		: "ĉ"	U0109 # LATIN SMALL LETTER C WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <E>		: "Ê"	Ecircumflex # LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <e>		: "ê"	ecircumflex # LATIN SMALL LETTER E WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <I>		: "Î"	Icircumflex # LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <i>		: "î"	icircumflex # LATIN SMALL LETTER I WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <J>		: "Ĵ"	U0134 # LATIN CAPITAL LETTER J WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <j>		: "ĵ"	U0135 # LATIN SMALL LETTER J WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <G>		: "Ĝ"	U011C # LATIN CAPITAL LETTER G WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <g>		: "ĝ"	U011D # LATIN SMALL LETTER G WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <H>		: "Ĥ"	U0124 # LATIN CAPITAL LETTER H WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <h>		: "ĥ"	U0125 # LATIN SMALL LETTER H WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <O>		: "Ô"	Ocircumflex # LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <o>		: "ô"	ocircumflex # LATIN SMALL LETTER O WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <s>		: "ŝ"	U015D # LATIN SMALL LETTER S WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <S>		: "Ŝ"	U015C # LATIN CAPITAL LETTER S WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <U>		: "Û"	Ucircumflex # LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <u>		: "û"	ucircumflex # LATIN SMALL LETTER U WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <w>		: "ŵ"	U0175 # LATIN SMALL LETTER W WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <W>		: "Ŵ"	U0174 # LATIN CAPITAL LETTER W WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <Y>		: "Ŷ"	U0176 # LATIN CAPITAL LETTER Y WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <y>		: "ŷ"	U0177 # LATIN SMALL LETTER Y WITH CIRCUMFLEX
+
+# Tilde
+<Multi_key> <asciitilde> <A>		: "Ã"	Atilde # LATIN CAPITAL LETTER A WITH TILDE
+<Multi_key> <asciitilde> <a>		: "ã"	atilde # LATIN SMALL LETTER A WITH TILDE
+<Multi_key> <asciitilde> <I>		: "Ĩ"	U0128 # LATIN CAPITAL LETTER I WITH TILDE
+<Multi_key> <asciitilde> <i>		: "ĩ"	U0129 # LATIN SMALL LETTER I WITH TILDE
+<Multi_key> <asciitilde> <N>		: "Ñ"	Ntilde # LATIN CAPITAL LETTER N WITH TILDE
+<Multi_key> <asciitilde> <n>		: "ñ"	ntilde # LATIN SMALL LETTER N WITH TILDE
+<Multi_key> <asciitilde> <o>		: "õ"	otilde # LATIN SMALL LETTER O WITH TILDE
+<Multi_key> <asciitilde> <O>		: "Õ"	Otilde # LATIN CAPITAL LETTER O WITH TILDE
+<Multi_key> <asciitilde> <U>		: "Ũ"	U0168 # LATIN CAPITAL LETTER U WITH TILDE
+<Multi_key> <asciitilde> <u>		: "ũ"	U0169 # LATIN SMALL LETTER U WITH TILDE
+
+# Diaeresis
+<Multi_key> <quotedbl> <A>		: "Ä"	Adiaeresis # LATIN CAPITAL LETTER A WITH DIAERESIS
+<Multi_key> <quotedbl> <a>		: "ä"	adiaeresis # LATIN SMALL LETTER A WITH DIAERESIS
+<Multi_key> <quotedbl> <E>		: "Ë"	Ediaeresis # LATIN CAPITAL LETTER E WITH DIAERESIS
+<Multi_key> <quotedbl> <e>		: "ë"	ediaeresis # LATIN SMALL LETTER E WITH DIAERESIS
+<Multi_key> <quotedbl> <I>		: "Ï"	Idiaeresis # LATIN CAPITAL LETTER I WITH DIAERESIS
+<Multi_key> <quotedbl> <i>		: "ï"	idiaeresis # LATIN SMALL LETTER I WITH DIAERESIS
+<Multi_key> <quotedbl> <O>		: "Ö"	Odiaeresis # LATIN CAPITAL LETTER O WITH DIAERESIS
+<Multi_key> <quotedbl> <o>		: "ö"	odiaeresis # LATIN SMALL LETTER O WITH DIAERESIS
+<Multi_key> <quotedbl> <U>		: "Ü"	Udiaeresis # LATIN CAPITAL LETTER U WITH DIAERESIS
+<Multi_key> <quotedbl> <u>		: "ü"	udiaeresis # LATIN SMALL LETTER U WITH DIAERESIS
+<Multi_key> <quotedbl> <Y>		: "Ÿ"	U0178 # LATIN CAPITAL LETTER Y WITH DIAERESIS
+<Multi_key> <quotedbl> <y>		: "ÿ"	ydiaeresis # LATIN SMALL LETTER Y WITH DIAERESIS
+
+# Ring
+<Multi_key> <asterisk> <A>		: "Å"	Aring # LATIN CAPITAL LETTER A WITH RING ABOVE
+<Multi_key> <asterisk> <a>		: "å"	aring # LATIN SMALL LETTER A WITH RING ABOVE
+<Multi_key> <asterisk> <U>		: "Ů"	U016E # LATIN CAPITAL LETTER U WITH RING ABOVE
+<Multi_key> <asterisk> <u>		: "ů"	U016F # LATIN SMALL LETTER U WITH RING ABOVE
+
+# Cedilla
+<Multi_key> <comma> <C>			: "Ç"	Ccedilla # LATIN CAPITAL LETTER C WITH CEDILLA
+<Multi_key> <comma> <c>			: "ç"	ccedilla # LATIN SMALL LETTER C WITH CEDILLA
+<Multi_key> <comma> <G>			: "Ģ"	U0122 # LATIN CAPITAL LETTER G WITH CEDILLA
+<Multi_key> <comma> <g>			: "ģ"	U0123 # LATIN SMALL LETTER G WITH CEDILLA
+<Multi_key> <comma> <K>			: "Ķ"	U0136 # LATIN CAPITAL LETTER K WITH CEDILLA
+<Multi_key> <comma> <k>			: "ķ"	U0137 # LATIN SMALL LETTER K WITH CEDILLA
+<Multi_key> <comma> <L>			: "Ļ"	U013B # LATIN CAPITAL LETTER L WITH CEDILLA
+<Multi_key> <comma> <l>			: "ļ"	U013C # LATIN SMALL LETTER L WITH CEDILLA
+<Multi_key> <comma> <N>			: "Ņ"	U0145 # LATIN CAPITAL LETTER N WITH CEDILLA
+<Multi_key> <comma> <n>			: "ņ"	U0146 # LATIN SMALL LETTER N WITH CEDILLA
+<Multi_key> <comma> <R>			: "Ŗ"	U0156 # LATIN CAPITAL LETTER R WITH CEDILLA
+<Multi_key> <comma> <r>			: "ŗ"	U0157 # LATIN SMALL LETTER R WITH CEDILLA
+<Multi_key> <comma> <S>			: "Ş"	U015E # LATIN CAPITAL LETTER S WITH CEDILLA
+<Multi_key> <comma> <s>			: "ş"	U015F # LATIN SMALL LETTER S WITH CEDILLA
+<Multi_key> <comma> <T>			: "Ţ"	U0162 # LATIN CAPITAL LETTER T WITH CEDILLA
+<Multi_key> <comma> <t>			: "ţ"	U0163 # LATIN SMALL LETTER T WITH CEDILLA
+
+# Breve
+<Multi_key> <u> <A>			: "Ă"	U0102 # LATIN CAPITAL LETTER A WITH BREVE
+<Multi_key> <u> <a>			: "ă"	U0103 # LATIN SMALL LETTER A WITH BREVE
+<Multi_key> <u> <E>			: "Ĕ"	U0114 # LATIN CAPITAL LETTER E WITH BREVE
+<Multi_key> <u> <e>			: "ĕ"	U0115 # LATIN SMALL LETTER E WITH BREVE
+<Multi_key> <u> <G>			: "Ğ"	U011E # LATIN CAPITAL LETTER G WITH BREVE
+<Multi_key> <u> <g>			: "ğ"	U011F # LATIN SMALL LETTER G WITH BREVE
+<Multi_key> <u> <I>			: "Ĭ"	U012C # LATIN CAPITAL LETTER I WITH BREVE
+<Multi_key> <u> <i>			: "ĭ"	U012D # LATIN SMALL LETTER I WITH BREVE
+<Multi_key> <u> <O>			: "Ŏ"	U014E # LATIN CAPITAL LETTER O WITH BREVE
+<Multi_key> <u> <o>			: "ŏ"	U014F # LATIN SMALL LETTER O WITH BREVE
+<Multi_key> <u> <U>			: "Ŭ"	U016C # LATIN CAPITAL LETTER U WITH BREVE
+<Multi_key> <u> <u>			: "ŭ"	U016D # LATIN SMALL LETTER U WITH BREVE
+
+# Macron
+<Multi_key> <minus> <A>			: "Ā"	U0100 # LATIN CAPITAL LETTER A WITH MACRON
+<Multi_key> <minus> <a>			: "ā"	U0101 # LATIN SMALL LETTER A WITH MACRON
+<Multi_key> <minus> <E>			: "Ē"	U0112 # LATIN CAPITAL LETTER E WITH MACRON
+<Multi_key> <minus> <e>			: "ē"	U0113 # LATIN SMALL LETTER E WITH MACRON
+<Multi_key> <minus> <I>			: "Ī"	U012A # LATIN CAPITAL LETTER I WITH MACRON
+<Multi_key> <minus> <i>			: "ī"	U012B # LATIN SMALL LETTER I WITH MACRON
+<Multi_key> <minus> <O>			: "Ō"	U014C # LATIN CAPITAL LETTER O WITH MACRON
+<Multi_key> <minus> <o>			: "ō"	U014D # LATIN SMALL LETTER O WITH MACRON
+<Multi_key> <minus> <U>			: "Ū"	U016A # LATIN CAPITAL LETTER U WITH MACRON
+<Multi_key> <minus> <u>			: "ū"	U016B # LATIN SMALL LETTER U WITH MACRON
+<Multi_key> <minus> <Y>			: "Ȳ"	U0232 # LATIN CAPITAL LETTER Y WITH MACRON
+<Multi_key> <minus> <y>			: "ȳ"	U0233 # LATIN SMALL LETTER Y WITH MACRON
+
+# Stroke
+<Multi_key> <minus> <D>			: "Đ"	Dstroke # LATIN CAPITAL LETTER D WITH STROKE
+<Multi_key> <minus> <d>			: "đ"	dstroke # LATIN SMALL LETTER D WITH STROKE
+<Multi_key> <minus> <T>			: "Ŧ"	U0166 # LATIN CAPITAL LETTER T WITH STROKE
+<Multi_key> <minus> <t> 			: "ŧ"	U0167 # LATIN SMALL LETTER T WITH STROKE
+
+# Caron
+<Multi_key> <v> <A>			: "Ǎ"	U01CD # LATIN CAPITAL LETTER A WITH CARON
+<Multi_key> <v> <a>			: "ǎ"	U01CE # LATIN SMALL LETTER A WITH CARON
+<Multi_key> <v> <C>			: "Č"	U010C # LATIN CAPITAL LETTER C WITH CARON
+<Multi_key> <v> <c>			: "č"	U010D # LATIN SMALL LETTER C WITH CARON
+<Multi_key> <v> <D>			: "Ď"	U010E # LATIN CAPITAL LETTER D WITH CARON
+<Multi_key> <v> <d>			: "ď"	U010F # LATIN SMALL LETTER D WITH CARON
+<Multi_key> <v> <E>			: "Ě"	U011A # LATIN CAPITAL LETTER E WITH CARON
+<Multi_key> <v> <e>			: "ě"	U011B # LATIN SMALL LETTER E WITH CARON
+<Multi_key> <v> <G>			: "Ǧ"	U01E6 # LATIN CAPITAL LETTER G WITH CARON
+<Multi_key> <v> <g>			: "ǧ"	U01E7 # LATIN SMALL LETTER G WITH CARON
+<Multi_key> <v> <H>			: "Ȟ"	U021E # LATIN CAPITAL LETTER H WITH CARON
+<Multi_key> <v> <h>			: "ȟ"	U021F # LATIN SMALL LETTER H WITH CARON
+<Multi_key> <v> <I>			: "Ǐ"	U01CF # LATIN CAPITAL LETTER I WITH CARON
+<Multi_key> <v> <i>			: "ǐ"	U01D0 # LATIN SMALL LETTER I WITH CARON
+<Multi_key> <v> <j>			: "ǰ"	U01F0 # LATIN SMALL LETTER J WITH CARON
+<Multi_key> <v> <K>			: "Ǩ"	U01E8 # LATIN CAPITAL LETTER K WITH CARON
+<Multi_key> <v> <k>			: "ǩ"	U01E9 # LATIN SMALL LETTER K WITH CARON
+<Multi_key> <v> <L>			: "Ľ"	U013D # LATIN CAPITAL LETTER L WITH CARON
+<Multi_key> <v> <l>			: "ľ"	U013E # LATIN SMALL LETTER L WITH CARON
+<Multi_key> <v> <N>			: "Ň"	U0147 # LATIN CAPITAL LETTER N WITH CARON
+<Multi_key> <v> <n>			: "ň"	U0148 # LATIN SMALL LETTER N WITH CARON
+<Multi_key> <v> <O>			: "Ǒ"	U01D1 # LATIN CAPITAL LETTER O WITH CARON
+<Multi_key> <v> <o>			: "ǒ"	U01D2 # LATIN SMALL LETTER O WITH CARON
+<Multi_key> <v> <R>			: "Ř"	U0158 # LATIN CAPITAL LETTER R WITH CARON
+<Multi_key> <v> <r>			: "ř"	U0159 # LATIN SMALL LETTER R WITH CARON
+<Multi_key> <v> <S>			: "Š"	U0160 # LATIN CAPITAL LETTER S WITH CARON
+<Multi_key> <v> <s>			: "š"	U0161 # LATIN SMALL LETTER S WITH CARON
+<Multi_key> <v> <T>			: "Ť"	U0164 # LATIN CAPITAL LETTER T WITH CARON
+<Multi_key> <v> <t>			: "ť"	U0165 # LATIN SMALL LETTER T WITH CARON
+<Multi_key> <v> <U>			: "Ǔ"	U01D3 # LATIN CAPITAL LETTER U WITH CARON
+<Multi_key> <v> <u>			: "ǔ"	U01D4 # LATIN SMALL LETTER U WITH CARON
+<Multi_key> <v> <Z>			: "Ž"	U017D # LATIN CAPITAL LETTER Z WITH CARON
+<Multi_key> <v> <z>			: "ž"	U017E # LATIN SMALL LETTER Z WITH CARON
+
+# Dot
+<Multi_key> <period> <A>			: "Ȧ"	U0226 # LATIN CAPITAL LETTER A WITH DOT ABOVE
+<Multi_key> <period> <a>			: "ȧ"	U0227 # LATIN SMALL LETTER A WITH DOT ABOVE
+<Multi_key> <period> <C>		: "Ċ"	U010A # LATIN CAPITAL LETTER C WITH DOT ABOVE
+<Multi_key> <period> <c>		: "ċ"	U010B # LATIN SMALL LETTER C WITH DOT ABOVE
+<Multi_key> <period> <E>		: "Ė"	U0116 # LATIN CAPITAL LETTER E WITH DOT ABOVE
+<Multi_key> <period> <e>		: "ė"	U0117 # LATIN SMALL LETTER E WITH DOT ABOVE
+<Multi_key> <period> <G>		: "Ġ"	U0120 # LATIN CAPITAL LETTER G WITH DOT ABOVE
+<Multi_key> <period> <g>		: "ġ"	U0121 # LATIN SMALL LETTER G WITH DOT ABOVE
+<Multi_key> <period> <I>		: "İ"	U0130 # LATIN CAPITAL LETTER I WITH DOT ABOVE
+<Multi_key> <period> <O>			: "Ȯ"	U022E # LATIN CAPITAL LETTER O WITH DOT ABOVE
+<Multi_key> <period> <o>			: "ȯ"	U022F # LATIN SMALL LETTER O WITH DOT ABOVE
+<Multi_key> <period> <Z>		: "Ż"	U017B # LATIN CAPITAL LETTER Z WITH DOT ABOVE
+<Multi_key> <period> <z>		: "ż"	U017C # LATIN SMALL LETTER Z WITH DOT ABOVE
+
+# Other letters
+<Multi_key> <period> <i>		: "ı"	U0131 # LATIN SMALL LETTER DOTLESS I
+<Multi_key> <e> <e>				: "ə"	U0259 # LATIN SMALL LETTER SCHWA
+<Multi_key> <T> <H>			: "Þ"	THORN # LATIN CAPITAL LETTER THORN
+<Multi_key> <d> <h>			: "ð"	eth # LATIN SMALL LETTER ETH
+<Multi_key> <t> <h>			: "þ"	thorn # LATIN SMALL LETTER THORN
+<Multi_key> <k> <k>			: "ĸ"	U0138 # LATIN SMALL LETTER KRA
+<Multi_key> <N> <G>			: "Ŋ"	U014A # LATIN CAPITAL LETTER ENG
+<Multi_key> <n> <g>			: "ŋ"	U014B # LATIN SMALL LETTER ENG

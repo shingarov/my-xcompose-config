@@ -1,0 +1,42 @@
+\ne 	≠ 	not equal
+\notin 	∉ 	not an element of
+\nless 	≮ 	not less
+\ngtr 	≯ 	not greater
+\nleq 	≰ 	neither less or equal
+\ngeq 	≱ 	neither greater or equal
+\lneq 	⪇ 	less than and single line not equal to
+\gneq 	⪈ 	greater than and single line not equal to
+\lneqq 	≨ 	Less than but not equal to
+\gneqq 	≩ 	greater but not equal
+\lnsim 	⋦ 	less but not equivalent
+\gnsim 	⋧ 	greater but not equivalent to
+\lnapprox 	⪉ 	less and not approximately equal
+\gnapprox 	⪊ 	greater and not approximately equal to
+\nprec 	⊀ 	does not precede
+\nsucc 	⊁ 	does not succeeds
+\npreceq  	⋠ 	does not precede or equal
+\nsucceq 	⋡ 	does not succeed or equal
+\precneqq 	⪵ 	Precedes above not equal
+\succneqq 	⪶ 	succeeds above not equal to
+\precnsim 	⋨ 	precedes but not equivalent to
+\succnsim 	⋩ 	succeeds but not equivalent
+\precnapprox 	⪹ 	precedes above not almost equal to
+\succnapprox 	⪺ 	succeeds above not approximately equal to
+\nsim 	≁ 	not similar
+\ncong 	≇ 	not congruent
+\nmid 	∤ 	not divide
+\nparallel 	∦ 	not parallel
+\nvdash 	⊬ 	does not prove
+\nvDash 	⊭ 	not true
+\nVdash 	⊮ 	not force
+\nVDash 	⊯ 	negated double vertical bar double right turnstile
+\ntriangleleft 	⋪ 	not normal subgroup of
+\ntriangleright 	⋫ 	does not contain as normal subgroup
+\ntrianglelefteq 	⋬ 	not normal subgoup of or equal
+\ntrianglerighteq 	⋭ 	does not contain as normal subgroup or equal
+\nsubseteq 	⊈ 	neither subset of nor equal
+\nsupseteq 	⊉ 	neither superset of nor equal
+\subsetneq 	⊊ 	subset of with not equal
+\supsetneq 	⊋ 	superset with not equal
+\subsetneqq 	⫋ 	subset of above not equal to
+\supsetneqq 	⫌ 	superset of above not equal to 

@@ -1,0 +1,37 @@
+# Isapostolic (aka paleocyrillic) letters
+# not included in Cyrillic layouts
+
+<Multi_key> <slash> <Cyrillic_GHE>      : "Ґ"  Cyrillic_GHE_WITH_UPTURN
+<Multi_key> <slash> <Cyrillic_ghe>      : "ґ"  Cyrillic_ghe_with_upturn
+<Multi_key> <slash> <Cyrillic_ZHE>      : "Ђ"  Cyrillic_DJE
+<Multi_key> <slash> <Cyrillic_zhe>      : "ђ"  Cyrillic_dje
+<Multi_key> <slash> <Cyrillic_DE>       : "Ꙃ"  Cyrillic_DZELO
+<Multi_key> <slash> <Cyrillic_de>       : "ꙃ"  Cyrillic_dzelo
+<Multi_key> <slash> <Cyrillic_ZE>       : "Ꙁ"  Cyrillic_ZEMLYA
+<Multi_key> <slash> <Cyrillic_ze>       : "ꙁ"  Cyrillic_zemlya
+<Multi_key> <slash> <Cyrillic_EL>       : "Љ"  Cyrillic_LJE
+<Multi_key> <slash> <Cyrillic_el>       : "љ"  Cyrillic_lje
+<Multi_key> <slash> <Cyrillic_EN>       : "Њ"  Cyrillic_NJE
+<Multi_key> <slash> <Cyrillic_en>       : "њ"  Cyrillic_nje
+<Multi_key> <slash> <Cyrillic_KA>       : "Ќ"  Cyrillic_KJE
+<Multi_key> <slash> <Cyrillic_ka>       : "ќ"  Cyrillic_kje
+<Multi_key> <slash> <Cyrillic_U>        : "Ꙋ"  Cyrillic_MONOGRAPH_UK
+<Multi_key> <slash> <Cyrillic_u>        : "ꙋ"  Cyrillic_monograph_uk
+<Multi_key> <slash> <Cyrillic_VE>       : "Ѡ"  Cyrillic_OT
+<Multi_key> <slash> <Cyrillic_ve>       : "ѡ"  Cyrillic_ot
+<Multi_key> <slash> <Cyrillic_IE>       : "Ѣ"  Cyrillic_YAT
+<Multi_key> <slash> <Cyrillic_ie>       : "ѣ"  Cyrillic_yat
+<Multi_key> <slash> <Cyrillic_YU>       : "Ѧ"  Cyrillic_LITTLE_YUS
+<Multi_key> <slash> <Cyrillic_yu>       : "ѧ"  Cyrillic_little_yus
+<Multi_key> <slash> <Cyrillic_A>        : "Ѫ"  Cyrillic_BIG_YUS
+<Multi_key> <slash> <Cyrillic_a>        : "ѫ"  Cyrillic_big_yus
+<Multi_key> <slash> <Cyrillic_SOFTSIGN> : "Ѯ"  Cyrillic_KSI
+<Multi_key> <slash> <Cyrillic_softsign> : "ѯ"  Cyrillic_ksi
+<Multi_key> <slash> <Cyrillic_PE>       : "Ѱ"  Cyrillic_PSI
+<Multi_key> <slash> <Cyrillic_pe>       : "ѱ"  Cyrillic_psi
+<Multi_key> <slash> <Cyrillic_EF>       : "Ѳ"  Cyrillic_FITA
+<Multi_key> <slash> <Cyrillic_ef>       : "ѳ"  Cyrillic_fita
+<Multi_key> <slash> <Cyrillic_YERU>     : "Ѵ"  Cyrillic_IZHITSA
+<Multi_key> <slash> <Cyrillic_yeru>     : "ѵ"  Cyrillic_izhitsa
+
+
