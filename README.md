@@ -14,14 +14,14 @@ _etc_ _etc_ when entering non-ASCII (mostly using LaTeX commands).
 ## Examples:
 
 - For Greek alphabet, type `<compose>`+`/`+_somelatinletter_
-- For AMS LaTeX, type `<compose>`+`\`+`command`+`<space>`
+- For AMS LaTeX, type `<compose>`+`\`+_command_+`<space>`
 - There are shortcuts for some frequently used symbols.
   For example, I find `\downarrow` too long so I made up
   `<compose>`+`→` (the gray key on the ⊥-part of the keyboard).
 
 ## Acknowledgements
 
-Most parts of this config come from various scattered places.
+Parts of this config come from various scattered places.
 In particular:
 - [https://gist.github.com/shoorick/793c623136b5e8003495](https://gist.github.com/shoorick/793c623136b5e8003495)
 - [https://github.com/jmadiot/xcompose-latex](https://github.com/jmadiot/xcompose-latex)
