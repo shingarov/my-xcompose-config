@@ -45,5 +45,5 @@
 <Multi_key> <ampersand> <parenleft>  : "⁽" U207D
 <Multi_key> <ampersand> <parenright> : "⁾" U207E
 <Multi_key> <ampersand> <n>          : "ⁿ" U207F
-<Multi_key> <ampersand> <ⁱ>          : "ⁱ" U2071
+<Multi_key> <ampersand> <i>          : "ⁱ" U2071
 
