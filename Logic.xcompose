@@ -23,8 +23,8 @@
 <Multi_key> <space> <slash>     :  "∈"    U2208 # ELEMENT OF
 <Multi_key> <space> <asterisk>  :  "∩"   U2229  # INTERSECTION
 <Multi_key> <space> <plus>      :  "∪"   U222A  # UNION
-<Multi_key> <space> <parenleft> :  "⊂"   U2282  # SUBSET OF
-<Multi_key> <space> <parenleft> :  "⊃"   U2283  # SUPERSET OF
+<Multi_key> <space> <parenleft> :  "⊆"   U2286  # SUBSET OF OR EQUAL TO
+<Multi_key> <space> <parenright> :  "⊃"   U2283  # SUPERSET OF
 <Multi_key> <braceleft> <braceright> : "∅"   U2205 # EMPTY SET
 <Multi_key> <space> <0>         : "⫰"   U2AF0 # disjoint sets
 
