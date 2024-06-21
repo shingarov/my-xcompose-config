@@ -4,6 +4,7 @@
 <Multi_key> <greater> <greater>           :  "»"  guillemotright # RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
 <Multi_key> <bracketleft> <bracketleft>   :  "⟦"  U27E6
 <Multi_key> <bracketright> <bracketright> :  "⟧"  U27E7
+<Multi_key> <3> <period>                  :  "…"  U2026  # ellipsis
 
 # Dashes
 <Multi_key> <minus> <minus> <period>    : "–"  U2013 # EN DASH
