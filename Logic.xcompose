@@ -39,7 +39,8 @@
 <Multi_key> <space> <z>   :  "ℤ"   U2124
 <Multi_key> <space> <P>   :  "℘"   U2118
 
-<Multi_key> <o> <o>             :  "∘"   U2218 # function composition
+<Multi_key> <o> <o>             :  "∘"   U2218 # composition, dextrosinistral
+<Multi_key> <period> <period>   :  "⋅"   U22C5 # composition, sinistrodextral
 <Multi_key> <o> <asterisk>      :  "⊛"   U229B # <$>
 <Multi_key> <space> <period>   :  "∎"   U220E  # halmos
 # <Multi_key> <space> <comma>    :  "☐"   U2610  # ballot box
