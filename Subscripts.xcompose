@@ -1,4 +1,6 @@
-# Subscripts
+# Subscripts:
+
+# numbers and common mathematical symbols
 <Multi_key> <underscore> <0>          : "₀" U2080
 <Multi_key> <underscore> <1>          : "₁" U2081
 <Multi_key> <underscore> <2>          : "₂" U2082
@@ -14,21 +16,38 @@
 <Multi_key> <underscore> <equal>      : "₌" U208C
 <Multi_key> <underscore> <parenleft>  : "₍" U208D
 <Multi_key> <underscore> <parenright> : "₎" U208E
+
+# a few lowercase letters
 <Multi_key> <underscore> <a>          : "ₐ" U2090
 <Multi_key> <underscore> <e>          : "ₑ" U2091
-<Multi_key> <underscore> <o>          : "ₒ" U2092
-<Multi_key> <underscore> <x>          : "ₓ" U2093
-<Multi_key> <underscore> <backslash>  : "ₔ" U2094
 <Multi_key> <underscore> <h>          : "ₕ" U2095
+<Multi_key> <underscore> <i>          : "ᵢ" U1D62
+<Multi_key> <underscore> <j>          : "ⱼ" U2C7C
 <Multi_key> <underscore> <k>          : "ₖ" U2096
 <Multi_key> <underscore> <l>          : "ₗ" U2097
 <Multi_key> <underscore> <m>          : "ₘ" U2098
 <Multi_key> <underscore> <n>          : "ₙ" U2099
+<Multi_key> <underscore> <o>          : "ₒ" U2092
 <Multi_key> <underscore> <p>          : "ₚ" U209A
+<Multi_key> <underscore> <r>          : "ᵣ" U1D63
 <Multi_key> <underscore> <s>          : "ₛ" U209B
 <Multi_key> <underscore> <t>          : "ₜ" U209C
+<Multi_key> <underscore> <u>          : "ᵤ" U1D64
+<Multi_key> <underscore> <v>          : "ᵥ" U1D65
+<Multi_key> <underscore> <x>          : "ₓ" U2093
+<Multi_key> <underscore> <backslash>  : "ₔ" U2094
 
-# Superscripts
+# some Greek letters
+<Multi_key> <underscore> <slash> <b>  : "ᵦ" U1D66
+<Multi_key> <underscore> <slash> <g>  : "ᵧ" U1D67
+<Multi_key> <underscore> <slash> <r>  : "ᵨ" U1D68
+<Multi_key> <underscore> <slash> <f>  : "ᵩ" U1D69
+<Multi_key> <underscore> <slash> <x>  : "ᵪ" U1D6A
+
+
+# Superscripts:
+
+# numbers and common mathematical symbols
 <Multi_key> <caret> <0>          : "⁰" U2070
 <Multi_key> <caret> <1>          : "¹" U00B9
 <Multi_key> <caret> <2>          : "²" U20B2
@@ -44,6 +63,64 @@
 <Multi_key> <caret> <equal>      : "⁼" U207C
 <Multi_key> <caret> <parenleft>  : "⁽" U207D
 <Multi_key> <caret> <parenright> : "⁾" U207E
-<Multi_key> <caret> <n>          : "ⁿ" U207F
+
+# full Latin lowercase alphabet except q
+<Multi_key> <caret> <a>          : "ᵃ" U1D43
+<Multi_key> <caret> <b>          : "ᵇ" U1D47
+<Multi_key> <caret> <c>          : "ᶜ" U1D9C
+<Multi_key> <caret> <d>          : "ᵈ" U1D48
+<Multi_key> <caret> <e>          : "ᵉ" U1D49
+<Multi_key> <caret> <f>          : "ᶠ" U1DA0
+<Multi_key> <caret> <g>          : "ᵍ" U1D4D
+<Multi_key> <caret> <h>          : "ʰ" U02B0
 <Multi_key> <caret> <i>          : "ⁱ" U2071
+<Multi_key> <caret> <j>          : "ʲ" U02B2
+<Multi_key> <caret> <k>          : "ᵏ" U1D4F
+<Multi_key> <caret> <l>          : "ˡ" U02E1
+<Multi_key> <caret> <m>          : "ᵐ" U1D50
+<Multi_key> <caret> <n>          : "ⁿ" U207F
+<Multi_key> <caret> <o>          : "ᵒ" U1D52
+<Multi_key> <caret> <p>          : "ᵖ" U1D56
+<Multi_key> <caret> <r>          : "ʳ" U02B3
+<Multi_key> <caret> <s>          : "ˢ" U02E2
+<Multi_key> <caret> <t>          : "ᵗ" U1D57
+<Multi_key> <caret> <u>          : "ᵘ" U1D58
+<Multi_key> <caret> <v>          : "ᵛ" U1D5B
+<Multi_key> <caret> <w>          : "ʷ" U02B7
+<Multi_key> <caret> <x>          : "ˣ" U02E3
+<Multi_key> <caret> <y>          : "ʸ" U02B8
+<Multi_key> <caret> <z>          : "ᶻ" U1DBB
+
+# limited uppercase Latin alphabet
+<Multi_key> <caret> <A>          : "ᴬ" U1D2C
+<Multi_key> <caret> <B>          : "ᴮ" U1D2E
+<Multi_key> <caret> <D>          : "ᴰ" U1D30
+<Multi_key> <caret> <E>          : "ᴱ" U1D31
+<Multi_key> <caret> <G>          : "ᴳ" U1D33
+<Multi_key> <caret> <H>          : "ᴴ" U1D34
+<Multi_key> <caret> <I>          : "ᴵ" U1D35
+<Multi_key> <caret> <J>          : "ᴶ" U1D36
+<Multi_key> <caret> <K>          : "ᴷ" U1D37
+<Multi_key> <caret> <L>          : "ᴸ" U1D38
+<Multi_key> <caret> <M>          : "ᴹ" U1D39
+<Multi_key> <caret> <N>          : "ᴺ" U1D3A
+<Multi_key> <caret> <O>          : "ᴼ" U1D3C
+<Multi_key> <caret> <P>          : "ᴾ" U1D3E
+<Multi_key> <caret> <R>          : "ᴿ" U1D3F
+<Multi_key> <caret> <T>          : "ᵀ" U1D40
+<Multi_key> <caret> <U>          : "ᵁ" U1D41
+<Multi_key> <caret> <V>          : "ⱽ" U2C7D
+<Multi_key> <caret> <W>          : "ᵂ" U1D42
+
+# some Greek letters
+<Multi_key> <caret> <slash> <a>  : "ᵅ" U1D45
+<Multi_key> <caret> <slash> <b>  : "ᵝ" U1D5D
+<Multi_key> <caret> <slash> <g>  : "ᵞ" U1D5E
+<Multi_key> <caret> <slash> <d>  : "ᵟ" U1D5F
+<Multi_key> <caret> <slash> <e>  : "ᵋ" U1D4B
+<Multi_key> <caret> <slash> <q>  : "ᶿ" U1DBF
+<Multi_key> <caret> <slash> <i>  : "ᶥ" U1DA5
+<Multi_key> <caret> <slash> <F>  : "ᶲ" U1DB2
+<Multi_key> <caret> <slash> <f>  : "ᵠ" U1D60
+<Multi_key> <caret> <slash> <x>  : "ᵡ" U1D61
 
